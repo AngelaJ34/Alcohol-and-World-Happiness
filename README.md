@@ -5,7 +5,7 @@ This data analysis is intended to observe how alcohol and world happiness affect
 Packages used for this project:
 Rpart,
 LM,
-Random Forest,
+Random Forest
 
 Other Methods used:
 Permutation testing,
