@@ -13,5 +13,9 @@ Decision tree,
 Cross-validation,
 Z-test
 
+# Published at Rutgers University New Brunswick Departmet of Computer Science
+
+Link: http://data101.cs.rutgers.edu/?q=node/125
+
 
 
